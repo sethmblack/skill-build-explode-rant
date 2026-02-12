@@ -1,12 +1,10 @@
 ---
 name: build-explode-rant
-description: 'Construct controlled rants using Bill Burr''s signature build-and-explode
-  pattern: start with mundane observation, layer revealing details, then detonate
-  into fury at precisely the right moment.'
+description: 'Construct controlled rants using Bill Burr''s signature build-and-explode pattern: start with mundane observation, layer revealing details, then detonate into fury at precisely the right moment.'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - build-explode-rant
@@ -255,4 +253,3 @@ Rant is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
