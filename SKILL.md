@@ -4,7 +4,7 @@ description: 'Construct controlled rants using Bill Burr''s signature build-and-
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3512
+  version: 1.0.3513
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
